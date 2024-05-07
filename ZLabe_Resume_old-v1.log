@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  7 MAY 2024 12:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  7 MAY 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**ZLabe_Resume.tex
-(./ZLabe_Resume.tex
+**ZLabe_Resume_old-v1.tex
+(./ZLabe_Resume_old-v1.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./altacv.cls
 Document Class: altacv 
@@ -933,8 +933,8 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 37.
 
-(./ZLabe_Resume.aux)
-\openout1 = `ZLabe_Resume.aux'.
+(./ZLabe_Resume_old-v1.aux)
+\openout1 = `ZLabe_Resume_old-v1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -1020,20 +1020,20 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `ZLabe_Resume.bcf'.
+\openout4 = `ZLabe_Resume_old-v1.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'ZLabe_Resume.bbl' not found.
+Package biblatex Info: ... file 'ZLabe_Resume_old-v1.bbl' not found.
 
-No file ZLabe_Resume.bbl.
+No file ZLabe_Resume_old-v1.bbl.
 Package biblatex Info: Reference section=0 on input line 37.
 Package biblatex Info: Reference segment=0 on input line 37.
 \c@mv@tabular=\count441
 \c@mv@boldtabular=\count442
 Package hyperref Info: Link coloring OFF on input line 37.
-(./ZLabe_Resume.out) (./ZLabe_Resume.out)
+(./ZLabe_Resume_old-v1.out) (./ZLabe_Resume_old-v1.out)
 \@outlinefile=\write5
-\openout5 = `ZLabe_Resume.out'.
+\openout5 = `ZLabe_Resume_old-v1.out'.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 54.
@@ -1095,6 +1095,8 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 68.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 68.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 106.
 
 Overfull \hbox (14.45782pt too wide) in paragraph at lines 113--121
  []|  [] 
@@ -1108,33 +1110,34 @@ e/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/te
 xlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/us
 r/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]
-(./ZLabe_Resume.aux)
+(./ZLabe_Resume_old-v1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `ZLabe_Resume.out' has not changed.
+Package rerunfilecheck Info: File `ZLabe_Resume_old-v1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'ZLabe_Resume.run.xml'.
-\openout1 = `ZLabe_Resume.run.xml'.
+Package logreq Info: Writing requests to 'ZLabe_Resume_old-v1.run.xml'.
+\openout1 = `ZLabe_Resume_old-v1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33872 strings out of 476025
- 677573 string characters out of 5790018
- 1922388 words of memory out of 5000000
- 53822 multiletter control sequences out of 15000+600000
- 738701 words of font info for 65 fonts, out of 8000000 for 9000
+ 33875 strings out of 476025
+ 677773 string characters out of 5790018
+ 1923388 words of memory out of 5000000
+ 53823 multiletter control sequences out of 15000+600000
+ 761579 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,9n,118p,1157b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,9n,118p,1164b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
->
-Output written on ZLabe_Resume.pdf (1 page, 104417 bytes).
+fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb>
+
+Output written on ZLabe_Resume_old-v1.pdf (1 page, 121380 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
