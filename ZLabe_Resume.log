@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  7 MAY 2024 12:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  17 JUN 2024 19:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1096,7 +1096,7 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 68.
 
-Overfull \hbox (14.45782pt too wide) in paragraph at lines 113--121
+Overfull \hbox (14.45782pt too wide) in paragraph at lines 120--128
  []|  [] 
  []
 
@@ -1121,7 +1121,7 @@ Package logreq Info: Writing requests to 'ZLabe_Resume.run.xml'.
 Here is how much of TeX's memory you used:
  33872 strings out of 476025
  677573 string characters out of 5790018
- 1922388 words of memory out of 5000000
+ 1923388 words of memory out of 5000000
  53822 multiletter control sequences out of 15000+600000
  738701 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1131,7 +1131,7 @@ e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 >
-Output written on ZLabe_Resume.pdf (1 page, 104417 bytes).
+Output written on ZLabe_Resume.pdf (1 page, 105119 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
