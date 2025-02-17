@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  16 FEB 2025 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  17 FEB 2025 09:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,14 +964,14 @@ LaTeX Font Info:    ... okay on input line 37.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 312.98033pt, 256.0748pt)
-* v-part:(T,H,B)=(35.56593pt, 773.91498pt, 35.56593pt)
+* v-part:(T,H,B)=(41.25641pt, 768.2245pt, 35.56593pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=312.98033pt
-* \textheight=773.91498pt
+* \textheight=768.2245pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-73.70406pt
+* \topmargin=-68.01358pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1096,7 +1096,7 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 65.
 
-Overfull \hbox (3.22092pt too wide) in paragraph at lines 122--130
+Overfull \hbox (3.22092pt too wide) in paragraph at lines 124--132
  []|  [] 
  []
 
@@ -1119,10 +1119,10 @@ Package logreq Info: Writing requests to 'ZLabe_Resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33865 strings out of 476025
- 677594 string characters out of 5790018
- 1923388 words of memory out of 5000000
- 53820 multiletter control sequences out of 15000+600000
+ 33866 strings out of 476025
+ 677599 string characters out of 5790018
+ 1924388 words of memory out of 5000000
+ 53821 multiletter control sequences out of 15000+600000
  781567 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,9n,118p,1157b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1131,7 +1131,7 @@ e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
 b>
-Output written on ZLabe_Resume.pdf (1 page, 110532 bytes).
+Output written on ZLabe_Resume.pdf (1 page, 110691 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream

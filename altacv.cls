@@ -65,6 +65,7 @@
 \newcommand{\orcidsymbol}{\aiOrcid}
 \newcommand{\slidessymbol}{\faSlideshare}
 \newcommand{\mailsymbol}{\faEnvelope}
+\newcommand{\scholar}{\faGraduationCap}
 
 \newcommand{\printinfo}[2]{\mbox{\textcolor{accent}{#1}\hspace{0.5em}#2\hspace{2em}}}
 
