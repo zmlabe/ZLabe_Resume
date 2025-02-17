@@ -65,7 +65,7 @@
 \newcommand{\orcidsymbol}{\aiOrcid}
 \newcommand{\slidessymbol}{\faSlideshare}
 \newcommand{\mailsymbol}{\faEnvelope}
-\newcommand{\scholar}{\faGraduationCap}
+\newcommand{\scholarsymbol}{\faGraduationCap}
 
 \newcommand{\printinfo}[2]{\mbox{\textcolor{accent}{#1}\hspace{0.5em}#2\hspace{2em}}}
 
@@ -82,6 +82,7 @@
 \newcommand{\orcid}[1]{\printinfo{\orcidsymbol}{#1}}
 \newcommand{\slides}[1]{\printinfo{\slidessymbol}{#1}}
 \newcommand{\location}[1]{\printinfo{\locationsymbol}{#1}}
+\newcommand{\scholar}[1]{\printinfo{\scholarsymbol}{#1}}
 
 \newcommand{\personalinfo}[1]{\def\@personalinfo{#1}}
 

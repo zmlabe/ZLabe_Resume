@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  17 FEB 2025 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  17 FEB 2025 10:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -959,19 +959,19 @@ LaTeX Font Info:    ... okay on input line 37.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 312.98033pt, 256.0748pt)
-* v-part:(T,H,B)=(41.25641pt, 768.2245pt, 35.56593pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=312.98033pt
-* \textheight=768.2245pt
+* h-part:(L,W,R)=(28.45274pt, 329.76746pt, 256.0748pt)
+* v-part:(T,H,B)=(35.56593pt, 723.83812pt, 35.56593pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=329.76746pt
+* \textheight=723.83812pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-68.01358pt
+* \topmargin=-73.70406pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1036,42 +1036,42 @@ Package hyperref Info: Link coloring OFF on input line 37.
 \openout5 = `ZLabe_Resume.out'.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 55.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 55.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 54.
+(Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 54.
+(Font)              scaled to size 8.0pt on input line 55.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 54.
+(Font)              scaled to size 8.0pt on input line 55.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 54.
+ut line 55.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 54.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 55.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 54.
+nput line 55.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesomethree/b/n' undefined
-(Font)              using `U/fontawesomethree/m/n' instead on input line 54.
+(Font)              using `U/fontawesomethree/m/n' instead on input line 55.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 54.
+ut line 55.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesomeone/b/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 54.
+(Font)              using `U/fontawesomeone/m/n' instead on input line 55.
 
 (./page1sidebar.tex
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
@@ -1094,21 +1094,16 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 12.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 65.
-
-Overfull \hbox (3.22092pt too wide) in paragraph at lines 124--132
- []|  [] 
- []
-
-[1
+(Font)              scaled to size 9.0pt on input line 66.
+ [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texliv
 e/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/te
 xlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/us
-r/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]
-(./ZLabe_Resume.aux)
+r/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}] (./ZLabe_Re
+sume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1119,10 +1114,10 @@ Package logreq Info: Writing requests to 'ZLabe_Resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33866 strings out of 476025
- 677599 string characters out of 5790018
+ 33867 strings out of 476025
+ 677612 string characters out of 5790018
  1924388 words of memory out of 5000000
- 53821 multiletter control sequences out of 15000+600000
+ 53822 multiletter control sequences out of 15000+600000
  781567 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,9n,118p,1157b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1131,7 +1126,7 @@ e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
 b>
-Output written on ZLabe_Resume.pdf (1 page, 110691 bytes).
+Output written on ZLabe_Resume.pdf (1 page, 111336 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
