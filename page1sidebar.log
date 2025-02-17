@@ -1,27 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 AUG 2022 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  16 FEB 2025 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **page1sidebar.tex
 (./page1sidebar.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
 ./page1sidebar.tex:3: Undefined control sequence.
 l.3 \cvsection
               {Education}
 ? 
 ./page1sidebar.tex:3: Emergency stop.
-l.3 \cvsection
-              {Education}
+l.3 
+    
 End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 5 strings out of 492616
- 147 string characters out of 6129482
- 57124 words of memory out of 5000000
- 4025 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 16 strings out of 476025
+ 403 string characters out of 5790018
+ 1849388 words of memory out of 5000000
+ 20569 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 5i,0n,1p,92b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,0n,12p,121b,10s stack positions out of 10000i,1000n,20000p,200000b,200000s
 ./page1sidebar.tex:3:  ==> Fatal error occurred, no output PDF file produced!
+duced!
