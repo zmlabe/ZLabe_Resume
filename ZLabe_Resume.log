@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  10 APR 2025 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  27 MAY 2025 09:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1083,6 +1083,11 @@ LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 12.
+
+Overfull \hbox (67.31519pt too wide) in paragraph at lines 19--27
+ []|  [] 
+ []
+
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 66.
@@ -1092,8 +1097,8 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texliv
 e/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/te
 xlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/loca
-l/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}] (./ZLabe_Resume.a
-ux)
+l/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]
+(./ZLabe_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1105,18 +1110,18 @@ Package logreq Info: Writing requests to 'ZLabe_Resume.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33853 strings out of 476025
- 677174 string characters out of 5790018
+ 677175 string characters out of 5790018
  1924388 words of memory out of 5000000
  53813 multiletter control sequences out of 15000+600000
  781389 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,9n,118p,1157b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,9n,118p,1157b,928s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
 b>
-Output written on ZLabe_Resume.pdf (1 page, 108156 bytes).
+Output written on ZLabe_Resume.pdf (1 page, 107902 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
